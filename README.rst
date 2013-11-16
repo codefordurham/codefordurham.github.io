@@ -1,4 +1,4 @@
 Code for Durham
 ===============
 
-Code for Durham's landing page.
+Code for Durham's homepage.
