@@ -59,10 +59,10 @@ footer p {
 
 @media (max-width: 767px) {
     .jumbotron {
-        background-position: -770px -601px;
+        background-position: -862px -601px;
         padding-bottom: 239px;
     }
     .jumbotron p {
-        max-width: 13em;
+        max-width: 10em;
     }
 }
