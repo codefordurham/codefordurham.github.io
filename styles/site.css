@@ -28,7 +28,7 @@ h2, h3 {
 }
 
 .home .highlights {
-    margin-top: 1em;
+    margin-top: 3em;
 }
 
 .home .highlights img {
@@ -52,6 +52,13 @@ h2, h3 {
     display: block;
 }
 
+img.meetup {
+    max-width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
 footer p {
     margin-bottom: 0px;
     font-size: small;
@@ -64,5 +71,8 @@ footer p {
     }
     .jumbotron p {
         max-width: 10em;
+    }
+    img.meetup {
+        max-width: 100%;
     }
 }
