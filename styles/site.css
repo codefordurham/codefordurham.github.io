@@ -1,0 +1,43 @@
+.jumbotron {
+    background-image: url(../images/skyline.jpg);
+    background-position: 0 -620px;
+    padding-top: 20px;
+    padding-bottom: 300px;
+    max-width: 100%;
+}
+
+.jumbotron h1 {
+    font-family: 'Carrois Gothic', sans-serif;
+}
+
+.jumbotron p {
+    width: 715px;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+
+.home {
+    font-family: 'Sintony', sans-serif;
+}
+
+.home h2 {
+    text-align: center;
+}
+
+.home .highlights {
+    margin-top: 1em;
+}
+
+.home .highlights img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.opaque {
+    opacity: .8;
+}
+
+footer p {
+    margin-bottom: 0px;
+    font-size: small;
+}
