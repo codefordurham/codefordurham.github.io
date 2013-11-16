@@ -23,6 +23,11 @@
     text-align: center;
 }
 
+h2, h3 {
+    font-family: 'Carrois Gothic', sans-serif;
+    text-align: center;
+}
+
 .home .highlights {
     margin-top: 1em;
 }
