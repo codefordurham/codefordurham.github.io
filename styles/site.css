@@ -11,7 +11,6 @@
 }
 
 .jumbotron p {
-    width: 715px;
     font-family: 'Carrois Gothic', sans-serif;
 }
 
@@ -56,4 +55,14 @@ h2, h3 {
 footer p {
     margin-bottom: 0px;
     font-size: small;
+}
+
+@media (max-width: 767px) {
+    .jumbotron {
+        background-position: -770px -601px;
+        padding-bottom: 239px;
+    }
+    .jumbotron p {
+        max-width: 13em;
+    }
 }
