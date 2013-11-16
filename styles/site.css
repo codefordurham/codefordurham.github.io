@@ -42,6 +42,17 @@ h2, h3 {
     opacity: .8;
 }
 
+.cfabrigade {
+    margin-top: 2em;
+}
+
+.cfabrigade img {
+    max-width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
 footer p {
     margin-bottom: 0px;
     font-size: small;
