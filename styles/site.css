@@ -8,6 +8,7 @@
 
 .jumbotron h1 {
     font-family: 'Carrois Gothic', sans-serif;
+    text-shadow: 4px 4px 4px rgba(255, 255, 255, .3);
 }
 
 .jumbotron p {
