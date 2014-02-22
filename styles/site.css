@@ -65,10 +65,13 @@ footer p {
     font-size: small;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 970px) {
     .jumbotron {
         background-position: -862px -601px;
         padding-bottom: 239px;
+    }
+    .jumbotron h1 {
+        max-width: 4em;
     }
     .jumbotron p {
         max-width: 10em;
