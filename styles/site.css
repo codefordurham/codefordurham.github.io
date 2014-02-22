@@ -82,6 +82,9 @@ footer p {
         margin-left: 20%;
         margin-right: 20%;
     }
+    div.highlights div {
+        margin-bottom: 3em;
+    }
     img.meetup {
         max-width: 100%;
     }
