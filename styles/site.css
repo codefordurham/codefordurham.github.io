@@ -72,6 +72,7 @@ footer p {
     }
     .jumbotron h1 {
         max-width: 4em;
+        font-size: 36px;
     }
     .jumbotron p {
         max-width: 10em;
